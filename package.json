@@ -1,0 +1,28 @@
+{
+  "name": "stackmob-client",
+  "description": "Implementation of the Stackmob JS SDK for NodeJS",
+  "version": "0.1.0",
+  "private": false,
+  "author": {
+    "name": "Neville Dastur",
+    "email": "neville@clinsoftsolutions.com"
+  },
+  "keywords": [
+    "stackmob","sdk"
+  ],
+  "license" : "MIT",
+  "engines": {
+    "node": "*"
+  },
+  "main": "./main.js",
+  "dependencies": {
+    "xmlhttprequest": "*",
+    "node-localstorage": "*",
+    "underscore": "*",
+    "backbone": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ClinicalSoftwareSolutions/stackmob-client"
+  }
+}

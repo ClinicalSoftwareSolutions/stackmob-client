@@ -1,4 +1,4 @@
-stackmob-client
+Stackmob-client
 ===============
 
-StackMob module for use with Node JS
+StackMob JS SDK for use with Node JS
